@@ -1,3 +1,5 @@
 Hello world
 cloud
 file updated from remote
+file updated from local
+
